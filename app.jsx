@@ -139,7 +139,7 @@ function Hero({ progress, onCta }) {
   return (
     <header className="hero" id="top">
       <div className="hero-video-wrap" ref={wrapRef}>
-        <img className="hero-still" src="assets/niif-bg.jpg" alt="" />
+        <img className="hero-still" src="niif-bg.jpg" alt="" />
       </div>
 
       <div className="hero-content" ref={contentRef}>
